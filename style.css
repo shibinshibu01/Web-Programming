@@ -22,11 +22,69 @@ body {
 #navbar a:hover {
     color: #050907;
     font-weight: bold;
-    text-transform: uppercase;
-    font-size: 15px;
 }
 
 header {
-    background-color: #FA5334;
+    background-color: #1D7948;
     padding: 2vw 2vw 2vw 2vw;
 }
+
+#dp {
+    background-color: #1D7948;
+    padding: 0vw 5vw 3vw 5vw;
+    text-align: center;
+    font-weight: bold;
+    color: #C6D7C5;
+    font-size: 36.56px;
+}
+
+.content {
+    padding: 2vw 5vw 0vw 5vw;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+ul {
+    color: #1D7948;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+
+table {
+    color: #1D7948;
+    font-size: 20px;
+    font-weight: normal;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 2px solid #050907;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #8B978A;
+  }
+  
+  td:hover {
+    background-color: #1D7948;
+    color: #C6D7C5;
+  }
+
+  .green {
+    background-color: #1D7948;
+    padding: 2vw 2vw 2vw 2vw;
+    text-align: center;
+}
+
+audio{
+    width: 100%;
+  }
+  
+
+  
+  
