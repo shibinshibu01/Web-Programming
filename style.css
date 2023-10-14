@@ -58,24 +58,24 @@ table {
     border-collapse: collapse;
     width: 100%;
     margin-top: 20px;
-  }
+}
   
-  th, td {
+th, td {
     border: 2px solid #050907;
     padding: 8px;
     text-align: center;
-  }
+}
   
-  th {
+th {
     background-color: #8B978A;
-  }
+}
   
-  td:hover {
+td:hover {
     background-color: #1D7948;
     color: #C6D7C5;
-  }
+}
 
-  .green {
+.green {
     background-color: #1D7948;
     padding: 2vw 2vw 2vw 2vw;
     text-align: center;
@@ -83,7 +83,12 @@ table {
 
 audio{
     width: 100%;
-  }
+}
+
+img {
+    width:40%;
+}
+  
   
 
   
